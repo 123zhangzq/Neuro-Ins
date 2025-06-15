@@ -5,9 +5,9 @@ Neuro-Ins is a learning based framework for solving the one-shot node insertion 
 Zhiqin Zhang, Jingfeng Yang, Zhiguang Cao, and Hoong Chuin Lau, "[Neuro-Ins: A Learning-based One-shot Node Insertion for Dynamic Routing Problems](https://www.)" in the IEEE Transactions on Knowledge and Data Engineering. Please cite our paper if the work is useful to you.
 
 ```
-@article{comming,
+@article{forthcoming,
   title={Neuro-Ins: A Learning-based One-shot Node Insertion for Dynamic Routing Problems},
-  author={Zhang, Zhiqin and Yang, Jingfeng and Cao, Zhiquang and Lau, Hoong Chuin},
+  author={Zhang, Zhiqin and Yang, Jingfeng and Cao, Zhiguang and Lau, Hoong Chuin},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year={2025},
   publisher={IEEE},
