@@ -8,7 +8,7 @@ Zhiqin Zhang, Jingfeng Yang, Zhiguang Cao, and Hoong Chuin Lau, "[Neuro-Ins: A L
 @article{forthcoming,
   title={Neuro-Ins: A Learning-based One-shot Node Insertion for Dynamic Routing Problems},
   author={Zhang, Zhiqin and Yang, Jingfeng and Cao, Zhiguang and Lau, Hoong Chuin},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
   year={2025},
   publisher={IEEE},
   volume={},
